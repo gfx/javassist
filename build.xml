@@ -63,6 +63,8 @@
            destdir="${build.classes.dir}"
            debug="on"
            deprecation="on"
+           source="1.9"
+           target="1.9"
            optimize="off"
     	   includeantruntime="true"
            includes="**">

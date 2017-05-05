@@ -1,5 +1,6 @@
-Java bytecode engineering toolkit
-### [Javassist version 3](http://www.javassist.org)
+# Java bytecode engineering toolkit [![CircleCI](https://circleci.com/gh/jboss-javassist/javassist.svg?style=svg)](https://circleci.com/gh/jboss-javassist/javassist)
+
+## [Javassist version 3](http://www.javassist.org)
 
 Copyright (C) 1999- by Shigeru Chiba, All rights reserved.
 
@@ -19,7 +20,7 @@ This software is distributed under the Mozilla Public License Version 1.1,
 the GNU Lesser General Public License Version 2.1 or later, or
 the Apache License Version 2.0.
 
-#### Files
+## Files
 
   * [Readme.html](Readme.html)
 Readme file (a longer version of this file).
